@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ActionGridActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/myColor">
+
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:numColumns="2"
+        android:stretchMode="columnWidth"
+        android:background="@color/white"
+        android:layout_margin="5dp"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        />
+        <!--android:layout_margin="4dp"-->
+        <!--android:columnWidth="80dp"-->
+
+        <!--android:smoothScrollbar="true"-->
+
+
+
+</LinearLayout>

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\highlight_pressed_2.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\highlight_pressed_2.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\keyboard_suggest_strip.9.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\keyboard_suggest_strip.9.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\keyboard_suggest_strip_divider.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\keyboard_suggest_strip_divider.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\open_app.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\open_app.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_es.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_es.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\candidate_feedback_background.9.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\candidate_feedback_background.9.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_sp.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_sp.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_en_uk.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_en_uk.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flash.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flash.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_pt_br.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_pt_br.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\shake.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\shake.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\marker.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\marker.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\phone.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hand4.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\hand4.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_da.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_da.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bluetooth.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\bluetooth.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_it.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_it.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\data.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\data.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flashlight48.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flashlight48.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\domain.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\domain.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_nb.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_nb.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_de.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_de.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\lock48.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\lock48.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\air.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\air.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_en.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_en.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_fr.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_fr.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_sv.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_sv.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_fi.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_fi.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sym_keyboard_done.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\highlight_pressed.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\highlight_pressed.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\silent.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\silent.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hand3.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\hand3.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_nl.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_nl.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\airplane.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\airplane.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wifi.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\wifi.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_pt_pt.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_pt_pt.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\flag_ind.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-mdpi\\flag_ind.png"
+    }
+]

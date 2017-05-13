@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sensey-1.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.nisrulz/sensey/1.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.nisrulz/sensey/1.7.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/sensey/1.7.0/82ec56905052aa646a54fcdbe1816fe7ca833648/sensey-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

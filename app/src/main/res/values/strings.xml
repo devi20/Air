@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RecoTest!</string>
+    <string name="app_name">Air Touch</string>
+    <string name="preference_main_settings_language_summary">Select Language</string>
+    <string name="alternatives">Alternatives</string>
+    <string name="preference_main_settings_language_key">preference_main_settings_language_key</string>
+
+    <string name="preference_main_settings_group">Main Settings</string>
+    <string name="ime_settings">Sample Settings</string>
+    <string name="preference_main_settings_language_title">Language</string>
+    <string name="preference_main_settings_language_default">en</string>
+    <string name="preference_main_settings_language_dialog_title">Language</string>
+    <string name="preference_main_settings_autosuggestion_key">preference_main_settings_autosuggestion_key</string>
+    <string name="preference_main_settings_autosuggestion_on">Show Suggestions</string>
+    <string name="preference_main_settings_autosuggestion_summary">If ON, suggestions list will automatically appear.</string>
+    <string name="preference_recognizer_separate_letters_key">preference_recognizer_separate_letters_key</string>
+    <string name="preference_recognizer_single_word_only_key">preference_recognizer_single_word_only_key</string>
+    <string name="preference_recognizer_separate_letters_on">Separate Letters</string>
+    <string name="preference_recognizer_separate_letters_summary">If ON, do not connect individual letters.</string>
+    <string name="preference_recognizer_single_word_only_on">Single Word Only</string>
+    <string name="preference_recognizer_single_word_only_summary">If ON, write only one word per recognition session.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_a">A</string>
+    <string name="text_b">B</string>
+    <string name="text_c">C</string>
+    <string name="text_d">D</string>
+    <string name="text_e">E</string>
+    <string name="text_f">F</string>
+    <string name="text_g">G</string>
+    <string name="text_h">H</string>
+    <string name="text_i">I</string>
+    <string name="text_j">J</string>
+    <string name="text_k">K</string>
+    <string name="text_l">L</string>
+    <string name="text_m">M</string>
+    <string name="text_n">N</string>
+    <string name="text_o">O</string>
+    <string name="text_p">P</string>
+    <string name="text_q">Q</string>
+    <string name="text_r">R</string>
+    <string name="text_s">S</string>
+    <string name="text_t">T</string>
+    <string name="text_u">U</string>
+    <string name="text_v">V</string>
+    <string name="text_w">W</string>
+    <string name="text_x">X</string>
+    <string name="text_y">Y</string>
+    <string name="text_z">Z</string>
+    <string name="text_spell_a_word">SPELL A WORD</string>
+    <string name="title_activity_spell_aword">SpellAWordActivity</string>
+    <string name="text_enter_a_word">Enter a word</string>
+    <string name="text_done">DONE</string>
+
+
+    <string-array name="preference_main_settings_language_list">
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English (Great Britain)</item>
+        <item>English (United States)</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Italiano</item>
+        <item>Nederlands</item>
+        <item>Norsk</item>
+        <item>Português (Brasil)</item>
+        <item>Português (Portugal)</item>
+        <item>Svenska</item>
+        <item>Suomi</item>
+        <item>Bahasa Indonesia</item>
+    </string-array>
+
+    <string-array name="preference_main_settings_language_list_values">
+        <item>da</item>
+        <item>de</item>
+        <item>en_uk</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>nb</item>
+        <item>pt_BR</item>
+        <item>pt_PT</item>
+        <item>sv</item>
+        <item>fi</item>
+        <item>id</item>
+    </string-array>
+
+</resources>
+
+

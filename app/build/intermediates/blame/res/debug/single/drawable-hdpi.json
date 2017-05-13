@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hand3.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-hdpi\\hand3.png"
+    },
+    {
+        "merged": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hand4.png",
+        "source": "D:\\WritePadSDK-master\\Android\\sample_astudio\\app\\src\\main\\res\\drawable-hdpi\\hand4.png"
+    }
+]
